@@ -1,0 +1,4 @@
+.env
+deployment/
+test/
+README.md
